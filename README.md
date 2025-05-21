@@ -2,7 +2,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaheerkzz&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheeerkzz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheerkzz&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaheerkzz)
 
